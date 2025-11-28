@@ -1,0 +1,87 @@
+id,section,question,option1,option2,option3,option4,correct
+1,INYECCIÓN ELECTRÓNICA (NIVEL BÁSICO),El código de falla P0302 indica una falla en el cilindro.¿A qué tipo pertenece este código?,Genérico,Específico del fabricante,De red,De comunicación,Genérico
+2,INYECCIÓN ELECTRÓNICA (NIVEL BÁSICO),En los DTC OBD-II, ¿qué identifica el primer carácter (letra)?,El sistema del vehículo (P, B, C o U),El tipo de error,La severidad de la falla,El fabricante,El sistema del vehículo (P, B, C o U)
+3,INYECCIÓN ELECTRÓNICA (NIVEL BÁSICO),¿Dónde se conecta el escáner de diagnóstico OBD-II?,En el módulo PCM,En el conector del alternador,En el conector de diagnóstico (DLC),En el sensor de oxígeno,En el conector de diagnóstico (DLC)
+4,INYECCIÓN ELECTRÓNICA (NIVEL BÁSICO),¿Qué sistema utiliza un hilo caliente como entrada principal para medir masa de aire?,Jetronic K,Jetronic L,Jetronic LH,D-Jetronic,Jetronic LH
+5,INYECCIÓN ELECTRÓNICA (NIVEL BÁSICO),¿Qué sensor ajusta la mezcla aire-combustible según la carga del motor?,MAF,MAP,TPS,ECT,MAP
+6,INYECCIÓN ELECTRÓNICA (NIVEL BÁSICO),Un vehículo no arranca. DTC almacenado: P0342.¿Cuál es la causa más probable?,Sensor CKP defectuoso,Sensor CMP defectuoso,Falta de combustible,Bujías en corto,Sensor CMP defectuoso
+7,INYECCIÓN ELECTRÓNICA (NIVEL BÁSICO),¿Qué relación aire-combustible corresponde a mezcla rica?,13:1,15:1,17:1,19:1,13:1
+8,INYECCIÓN ELECTRÓNICA (NIVEL BÁSICO),El código P0301 indica falla de encendido en el cilindro 1. ¿Qué significa el dígito 0 en el código?,Falla genérica,Falla específica del fabricante,Falla de comunicación,Falla genérica
+9,INYECCIÓN ELECTRÓNICA (NIVEL BÁSICO),¿Qué sensor detecta la velocidad de giro del cigüeñal?,CMP,CKP,TPS,ECT,CKP
+10,INYECCIÓN ELECTRÓNICA (NIVEL BÁSICO),Un motor presenta humo negro y mezcla rica. ¿Cuál podría ser la causa?,Sensor MAP defectuoso,Presión de combustible alta,Filtro de aire limpio,Sensor TPS desconectado,Presión de combustible alta
+11,INYECCIÓN ELECTRÓNICA (NIVEL BÁSICO),¿Qué tipo de sensor mide la temperatura del refrigerante?,MAP,TPS,ECT,MAF,ECT
+12,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Con qué índice se relaciona el retardo de ignición del combustible diésel?,Octano,Reid,Cetano,Volatilidad,Cetano
+13,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué presión maneja un sistema de bomba-inyector de primera generación?,300–800 bar,800–1200 bar,1500–1800 bar,2000–2500 bar,300–800 bar
+14,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente permite adelantar el comienzo de la inyección en una bomba rotativa?,Válvula reguladora,Avance centrífugo,Válvula de descarga,Corrector de humo,Avance centrífugo
+15,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué elemento no pertenece a una bomba rotativa?,Cabezal hidráulico,Eje de mando,Pistón distribuidor,Variador de vacío,Variador de vacío
+16,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué porcentaje de la mezcla se encuentra en la antecámara de un motor diésel de inyección indirecta tipo swirl?,10 %,30 %,50 %,70 %,70 %
+17,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué sistemas post-combustión transforman los óxidos de nitrógeno (NOx)?,Catalizador de tres vías,EGR,DPF,SCR,SCR
+18,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué sistemas anticontaminantes post-combustión se emplean en los motores diésel modernos?,"EGR, catalizador de tres vías","DPF, SCR, catalizador oxidante","VVT, EVAP, EGR","Filtro de aire, EGR","DPF, SCR, catalizador oxidante"
+19,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué ciclo mantiene constante la presión media efectiva (PME) en motores diésel ideales?,Otto,Atkinson,Diésel,Miller,Diésel
+20,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué ángulo promedio de inyección presenta un motor diésel de inyección indirecta?,30°,45°,15°,60°,30°
+21,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué relación de dosado corresponde a condiciones de alta carga y régimen alto?,1/500,1/700,1/900,1/1100,1/900
+22,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Cuál es el componente que regula la presión del combustible en un sistema de inyección multipunto?,Bomba de alta presión,Sensor de presión,Regulador de presión,Válvula EGR,Regulador de presión
+23,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente convierte el movimiento rotativo del cigüeñal en movimiento alternativo de las válvulas?,Árbol de levas,Biela,Pistón,Volante motor,Árbol de levas
+24,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Cuál es el valor estequiométrico de la mezcla aire-combustible en motores gasolina?,10:1,12.5:1,14.7:1,16:1,14.7:1
+25,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué sistema reduce los óxidos de nitrógeno (NOx) en motores diésel?,DPF,EGR,SCR,Catalizador de tres vías,SCR
+26,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué sensor mide la cantidad de aire que entra al motor?,TPS,MAP,MAF,ECT,MAF
+27,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de motor tiene un ciclo de dos carreras por cada explosión?,MEP,MEC,Motor 2T,Motor Wankel,Motor 2T
+28,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente evita que el refrigerante se desborde por exceso de presión?,Termostato,Radiador,Tapa de presión,Bomba de agua,Tapa de presión
+29,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de combustible tiene mayor índice de cetano?,Gasolina,Diésel,GLP,GNC,Diésel
+30,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de válvula controla los gases del cárter en motores gasolina?,Válvula EGR,Válvula PCV,Válvula MAP,Válvula de mariposa,Válvula PCV
+31,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué parámetro indica la cantidad de mezcla en la cámara de combustión antes del PMS?,Ángulo de avance,Ángulo de inyección,Ángulo de encendido,Ángulo de apertura,Ángulo de inyección
+32,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de bomba se usa en sistemas Common Rail modernos?,Bomba rotativa,Bomba de paletas,Bomba de alta presión,Bomba mecánica,Bomba de alta presión
+33,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de motor tiene forma triangular en su rotor?,Motor radial,Motor boxer,Motor Wankel,Motor en línea,Motor Wankel
+34,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué parámetro indica la cantidad de aire respecto al combustible?,Lambda,Octanaje,Cetano,PME,Lambda
+35,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente controla la apertura de válvulas en motores DOHC?,Árbol de levas único,Doble árbol de levas,Piñón de distribución,Correa dentada,Doble árbol de levas
+36,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué sistema permite variar el tiempo de apertura de válvulas según la carga?,VVT,EGR,PCV,MAP,VVT
+37,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente permite la mezcla de aire y combustible en motores con carburador?,Inyector,Válvula PCV,Carburador,Sensor MAF,Carburador
+38,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de motor tiene los cilindros dispuestos en forma de “V”?,Motor en línea,Motor radial,Motor en V,Motor bóxer,Motor en V
+39,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué parámetro indica la presión media efectiva en el cilindro durante la combustión?,PME,RPM,Lambda,Torque,PME
+40,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de encendido se utiliza en motores gasolina modernos?,Encendido por compresión,Encendido por chispa,Encendido por detonación,Encendido por presión,Encendido por chispa
+41,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente controla la temperatura del refrigerante en el motor?,Radiador,Termostato,Bomba de agua,Ventilador,Termostato
+42,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de mezcla se considera rica?,Lambda > 1,Lambda = 1,Lambda < 1,Lambda = 0,Lambda < 1
+43,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente se encarga de transformar el movimiento lineal del pistón en rotación?,Árbol de levas,Cigüeñal,Volante motor,Biela,Cigüeñal
+44,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de motor tiene un ciclo de cuatro tiempos?,Motor 2T,Motor rotativo,Motor 4T,Motor híbrido,Motor 4T
+45,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente se encarga de cerrar el circuito de refrigeración cuando el motor está frío?,Radiador,Termostato,Bomba de agua,Válvula PCV,Termostato
+46,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de combustión ocurre en motores diésel?,Por chispa,Por presión,Por compresión,Por detonación,Por compresión
+47,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente permite la sincronización entre cigüeñal y árbol de levas?,Correa de distribución,Biela,Volante motor,Piñón de cigüeñal,Correa de distribución
+48,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de motor tiene un solo rotor en lugar de pistones?,Motor radial,Motor Wankel,Motor boxer,Motor en línea,Motor Wankel
+49,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué sistema permite ajustar la relación aire-combustible en tiempo real?,Carburador,Inyección electrónica,Válvula PCV,Bomba de combustible,Inyección electrónica
+50,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente se encarga de expulsar los gases quemados del cilindro?,Válvula de admisión,Válvula de escape,Pistón,Árbol de levas,Válvula de escape
+51,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de motor tiene cilindros opuestos horizontalmente?,Motor en V,Motor radial,Motor boxer,Motor en línea,Motor boxer
+52,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué parámetro indica la capacidad de un motor para realizar trabajo?,Torque,Potencia,RPM,PME,Potencia
+53,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente permite el encendido en motores gasolina?,Bujía,Inyector,Sensor MAP,Válvula PCV,Bujía
+54,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de motor tiene mayor eficiencia térmica en condiciones ideales?,Otto,Diésel,Wankel,Híbrido,Diésel
+55,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente regula la cantidad de combustible inyectado en cada cilindro?,Sensor de oxígeno,ECU,Inyector,Sensor MAP,ECU
+56,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de mezcla se produce cuando hay exceso de aire?,Rica,Pobre,Estequiométrica,Saturada,Pobre
+57,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente controla el tiempo de apertura de válvulas en motores modernos?,Árbol de levas,VVT,ECU,Sensor de posición,VVT
+58,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente se encarga de mantener la presión del aceite en el sistema de lubricación?,Filtro de aceite,Bomba de aceite,Válvula PCV,Radiador de aceite,Bomba de aceite
+59,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de motor tiene mayor número de partes móviles?,Motor eléctrico,Motor Wankel,Motor de combustión interna,Motor híbrido,Motor de combustión interna
+60,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué parámetro indica la cantidad de combustible inyectado por ciclo?,Lambda,Dosado,PME,Octanaje,Dosado
+61,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente evita que el aceite se mezcle con los gases del cárter?,Válvula PCV,Junta de culata,Filtro de aceite,Sensor MAP,Válvula PCV
+62,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de encendido se utiliza en motores diésel?,Por chispa,Por compresión,Por detonación,Por presión,Por compresión
+63,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente permite el movimiento alternativo del pistón?,Cigüeñal,Biela,Árbol de levas,Volante motor,Biela
+64,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué sistema permite controlar la mezcla aire-combustible en tiempo real?,Carburador,Inyección electrónica,Válvula EGR,Válvula PCV,Inyección electrónica
+65,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente se encarga de cerrar el paso de refrigerante cuando el motor está frío?,Radiador,Termostato,Bomba de agua,Ventilador,Termostato
+66,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de motor tiene un ciclo de dos tiempos?,Motor 4T,Motor rotativo,Motor 2T,Motor híbrido,Motor 2T
+67,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué parámetro indica la eficiencia de la combustión en un motor?,PME,Lambda,Torque,Octanaje,PME
+69,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de mezcla se produce cuando hay exceso de combustible?,Rica,Pobre,Estequiométrica,Saturada,Rica
+70,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente controla la apertura de válvulas en motores modernos?,Árbol de levas,VVT,ECU,Sensor de posición,VVT
+71,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de motor tiene cilindros enfrentados horizontalmente?,Motor en V,Motor radial,Motor boxer,Motor en línea,Motor boxer
+72,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente permite la recirculación de gases de escape para reducir emisiones?,Válvula PCV,Válvula EGR,Sensor MAP,Inyector,Válvula EGR
+73,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de motor tiene mayor eficiencia volumétrica?,Motor atmosférico,Motor turboalimentado,Motor híbrido,Motor rotativo,Motor turboalimentado
+74,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué parámetro indica la relación entre volumen máximo y mínimo en el cilindro?,PME,Lambda,Relación de compresión,Dosado,Relación de compresión
+75,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente se encarga de mantener la carga eléctrica del vehículo?,Batería,Alternador,Regulador de voltaje,Motor de arranque,Alternador
+76,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de motor tiene un ciclo de trabajo continuo sin válvulas?,Motor Wankel,Motor 4T,Motor 2T,Motor boxer,Motor Wankel
+77,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente regula la presión de combustible en sistemas Common Rail?,Sensor de presión,Válvula de control,ECU,Regulador de presión,Regulador de presión
+78,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de mezcla se produce cuando lambda = 1?,Rica,Pobre,Estequiométrica,Saturada,Estequiométrica
+79,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente permite el arranque del motor mediante energía eléctrica?,Alternador,Motor de arranque,Batería,ECU,Motor de arranque
+80,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente se encarga de mantener la mezcla homogénea en la cámara de combustión?,Pistón,Árbol de levas,Cámara swirl,Válvula de escape,Cámara swirl
+81,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué sistema permite la reducción de partículas en motores diésel?,EGR,SCR,DPF,Catalizador,DPF
+82,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente se encarga de medir la presión en el múltiple de admisión?,Sensor MAP,Sensor MAF,Sensor TPS,Sensor ECT,Sensor MAP
+83,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),Motor térmico,Motor híbrido,Motor rotativo,Motor turboalimentado,Motor híbrido
+84,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué parámetro indica la cantidad de energía útil generada por el motor?,Torque,Potencia,RPM,PME,Potencia
+85,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente regula el tiempo de encendido en motores modernos?,Sensor de posición,ECU,Bujía,Árbol de levas,ECU
+86,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué tipo de motor tiene combustión por chispa y mezcla homogénea?,Diésel,Otto,Wankel,Híbrido,Otto
+87,FUNDAMENTOS DEL MOTOR (NIVEL BÁSICO),¿Qué componente permite la apertura y cierre de válvulas en sincronía con el cigüeñal?,Árbol de levas,Biela,Volante motor,Sensor de posición,Árbol de levas
