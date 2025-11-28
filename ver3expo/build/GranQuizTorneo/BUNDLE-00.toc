@@ -1,3 +1,0 @@
-([('GranQuizTorneo',
-   '/Users/martin/Desktop/ver3expo/dist/GranQuizTorneo',
-   'EXECUTABLE')],)
